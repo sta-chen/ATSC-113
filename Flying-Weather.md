@@ -56,7 +56,7 @@ Deeper cumuliform clouds have stronger updrafts.
 
 ### Stratiform Clouds
 
-Layter clouds, `St`, look like sheets or blankets.
+Layer clouds, `St`, look like sheets or blankets.
 
 * range from only 100m to 6km thick in the vertical
 * have a horizontal extent of 100km to 1000km
@@ -99,4 +99,30 @@ The don't fit well in the normal cumuliform or stratiform groups, and they have 
 ## Special Clouds
 
 ### Clouds in unstable air aloft
+
+#### Castellanus
+
+A thin layer of cold air will form above a thin layer of warm air. This combination of layers are said to be `statically unstable`:
+
+* As the warm air rises and the cold air sinks within this warm-cold-air sandwich, mineature convective clouds form in the rising air if enough water vapour is present.
+* These clouds look like castle turrets, which is how they get their name `castellanus`.
+* Sometimes they form out of the top of a layer of clouds, hence, they are a type of `stratiform cloud`.
+* Their diameter is small, compared to their altitude above ground.
+* The convective circulations of these clouds do not touch the ground
+  * instead are contained within that warm-cold-air sandwich layer.
+
+Castellanus clouds can form as:
+
+* high-altitude clouds
+  `cirrus castellanus`, or `cirrocumulus castellanus`
+* mid-altitude clouds
+  `altocumulus castellanus`
+* low-altitude clouds
+  `stratocumulus castellanus`
+
+##### Tips for Pilots
+
+* Instrument-rated pilots should avoid flying in a layer of castellanus clouds.
+  * as it would likely be turbulent
+* If you accidentally find yourself in a layer of castellanus cloud, usually climbing or descending a small distance will get you out of the layer of turbulence.
 
