@@ -2,14 +2,14 @@
 
 # Flying Weather
 
-## Clouds
+## [Clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01a-clouds/index.html)
 
 Normal clouds are classified into two categories:
 
 * `Convective clouds` or `Cumuliform clouds` (Cu)
 * `Layer clouds` or `Stratiform clouds` (St)
 
-### Convective Clouds
+### [Convective Clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01a-clouds/cumuliform.html)
 
 Cumuliform clouds, `Cu`, look like stacks of cotton balls.
 
@@ -56,7 +56,7 @@ Deeper cumuliform clouds have stronger updrafts.
 * The medium and smaller cumulus can be flown under and through, but will cause a bumpy ride
   * be sure to have your seat belt fastened, and provide barf bags to your passengers
 
-### Stratiform Clouds
+### [Stratiform Clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01a-clouds/stratiform.html)
 
 Layer clouds, `St`, look like sheets or blankets.
 
@@ -98,11 +98,11 @@ Also, soarplane pilots usually don't like stratiform clouds because they shade t
 
 The don't fit well in the normal cumuliform or stratiform groups, and they have characteristics of both groups.
 
-## Special Clouds
+## [Special Clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/index.html)
 
 ### Clouds in unstable air aloft
 
-#### Castellanus
+#### [Castellanus](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/castellanus.html)
 
 **Summary**: Look like small castle turrets.
 
@@ -140,7 +140,7 @@ Castellanus clouds can form as:
   * But a layer of castellanus clouds does not guarantee that thunderstorms will form later.
 * These clouds are of little use to sailplane pilots, because sustained updrafts are not often found in the clear air below these clouds.
 
-#### Billow (K-H wave) clouds
+#### [Billow (K-H wave) clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/billow.html)
 
 **Summary**:
 
@@ -169,7 +169,7 @@ Because these waves happen in large horizontal regions, you can often see billow
 
 ![mountain-wind](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/images-01b/Clouds-mountains.png)
 
-#### Lenticular (mountain-wave) Clouds
+#### [Lenticular (mountain-wave) Clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/lenticular.html)
 
 **Summary**: Indicate vertical wind oscillations and possible mountain-wave turbulence.
 
@@ -195,7 +195,7 @@ For the first wave, which is over the mountain, the lenticular cloud is often ca
 * But if conditions are right, these waves can cause severe mountain wave turbulence, from the earth's surface all the way up into the stratosphere.
 * For the gentler waves, sailplane pilots seek the upwind side of the lenticular clouds because they can have nearly continuous updrafts there.
 
-#### Rotor Clouds
+#### [Rotor Clouds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/rotor.html)
 
 **Summary**: Indicate severe or extreme turbulence at low altitudes due to mountain waves.
 
@@ -207,22 +207,23 @@ For the first wave, which is over the mountain, the lenticular cloud is often ca
 * They are associated with violent turbulence that can break wings off of aircraft
 * their strong up- and down-drafts can cause pilots of small aircraft to crash while attempting to land and take off.
 
-#### Banner Clouds
+#### [Banner Clouds](https://commons.wikimedia.org/wiki/File:Banner_Cloud_formation_on_the_Matterhorn.jpg)
+
 **Summary**: Form on downwind side of mountain peak. Indicate strong turbulence touching the downwind side of a tall, isolated mountain peak.
 
 ### Clouds formed by extra heat, updrafts, or tubulence
 
-#### Pyrocumulus
+#### [Pyrocumulus](https://en.wikipedia.org/wiki/Pyrocumulus_cloud)
 
 `cumulus flammagenitus`
 
 **Summary**: Form over forest fires and volcanoes. Indicate a forest fire so strong that the heat and moisture released can make a thunderstorm in the smoke.
 
-#### Pileus
+#### [Pileus](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/pileus.html)
 
 **Summary**: Form over fast-growing cumulus clouds. Interesting to watch, but they are harmless, and don't affect flying, sailing or snow sports.
 
-#### Fractus / scud
+#### [Fractus / scud](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/fractus.html)
 
 **Summary**: Form in turbulent humid air near the ground. These scud clouds indicate high humidity (such as due to drizzle falling from higher clouds) and strong winds at low altitude.
 
@@ -230,19 +231,19 @@ For the first wave, which is over the mountain, the lenticular cloud is often ca
 
 ![homogenitus](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/images-01b/Clouds-anthropogenic-others.png)
 
-#### Fumulus
+#### [Fumulus](https://commons.wikimedia.org/wiki/File:Leverton_Road_fumulus_clouds_-_geograph.org.uk_-_1171081.jpg)
 
 `cumulus homogenitus`
 
 **Summary**: Water-droplet clouds over cooling towers. Interesting to see, though harmless for flying, sailing, or snow sports.
 
-#### Contrails
+#### [Contrails](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01b-special-clouds/contrail.html)
 
 `cirrus homogenitus`
 
 **Summary**: Aircraft condensation trail. Indicate the turbulent wing-tip vortices behind aircraft. Small aircraft can be flipped upside down if they accidently fly into a wing-tip vortex. Military pilots hate contrails, because they reveal the aircraft to the enemy.
 
-## Cloud Coverage
+## [Cloud Coverage](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01c-cloud_coverage/index.html)
 
 Pilots flying visually, `VFR`, must stay outside of clouds. Even those flying in instruments, `IFR`, are concerned if there is a low overcast (a low ceiling) over their destination airport. For this reason, cloud coverage is important to pilots.
 
@@ -269,7 +270,7 @@ A tricky aspect of estimating cloud cover is that lower-altitude clouds block th
 
 **Caution**: If you are flying at an altitude just above or just below the clouds, then in your slant or oblique view, the sky will look much more overcast than it really is. 
 
-## Ceiling
+## [Ceiling](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01d-ceilings/index.html)
 
 Pilots flying according to visual flight rules need to see where they are going. But in clouds, you can't see anything — so VFR pilots need to stay out of clouds.
 
@@ -306,7 +307,7 @@ Because ceilings and visibility are so closely related, and because they are the
 
 * CAVOK = Ceiling and Visibility are OK (i.e. good for VFR flight)
 
-## Visibility
+## [Visibility](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01e-visibility/index.html)
 
 If you hear the word "visibility" without any adjectives in front, then assume it is a horizontal visibility.
 
@@ -345,7 +346,7 @@ Vertical visibility is determined by either:
 3. The height at which a ceiling balloon (a bright red balloon filled with helium) completely disappears during the presence of an indefinite ceiling
 4. The height determined by the sensor algorithm at automated stations (based on horizontal visibility)
 
-## Symbols on Weather Maps
+## [Symbols on Weather Maps](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01f-weather_symbols/index.html)
 
 Drizzle/Rain/Snow/Showers/Thunderstorm/Fog/Sand Storm/Dust Storm/Drifting Snow/Blowing Snow
 DZ/RA/SN/SH/TS/FG/SS/DS/DRSN/BLSN
@@ -359,7 +360,7 @@ FG/BR/HZ/FU/VA/SA/DU/PY
 Obscuration
 ![obscuration](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01f-weather_symbols/images-01f/obscuration.png)
 
-## Regulations: VFR vs. IFR
+## [Regulations: VFR vs. IFR](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01g-vfr-ifr/index.html)
 
 ### Visual Flight
 `VFR` = `Visual Flight Rules` means that you fly by mostly looking out the window. You need good visibility and need to stay out of clouds. By looking with your eyes, you can:
