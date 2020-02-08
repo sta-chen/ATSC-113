@@ -1,3 +1,5 @@
+[Glossary](https://www.eoas.ubc.ca/courses/atsc113/home/glossary.html)
+
 # Flying Weather
 
 ## Clouds
@@ -354,6 +356,7 @@ Light/Moderate/Heavy/Freezing
 ![freezing-glyph](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01f-weather_symbols/images-01f/descriptor2.png)
 Fog/Mist/Haze/Smoke/Volcanic Ash/Sand in air/Dust in air/Spray
 FG/BR/HZ/FU/VA/SA/DU/PY
+Obscuration
 ![obscuration](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01f-weather_symbols/images-01f/obscuration.png)
 
 ## Regulations: VFR vs. IFR
@@ -384,4 +387,548 @@ Conditions for which VFR is allowed, but for which visibility is poor and/or clo
 
 * navigate using onboard GPS map displays and other navigation signals
 * control the aircraft by looking at the instruments on your dashboard (called a "control panel" on aircraft)
-* 
+* get to airports by following the instructions and clearances given by `air traffic controllers` (ATC) who keep track of your flight and make sure you arrive at your distination without hitting anything
+* You are required to file a `flight plan` before you start, so that ATC knows where you want to go.
+
+To fly IFR, you need to:
+
+* be specially trained to believe the instruments and to ignore your normal physiological stimuli like inner-ear signals and "seat of the pants" feelings of pressure or G-forces on your body
+* have an aircraft with the proper instruments and radios, all in good working order
+* have the proper charts
+
+You can fly IFR in good and in bad weather. Bad weather is called `Instrument Flight Condition` (IFC) or  `Instrument Meteorological Conditions` (IMC)
+
+* i.e. weather for which VFR flight is not allowed.
+* IFR pilots must stay out of thunderstorms and out of volcanic ash (which sandblasts the engines, causing them to fail).
+* IFR pilots without the right aircraft need to stay out of clouds with supercooled cloud and rain drops.
+
+### VFR Over the Top
+
+`VFR over the top` is when there is a layer of clouds below you, so you cannot see the ground to help you navigate. In many countries you do not need an IFR clearance to fly VFR over the top.
+
+| Category |    Ceiling  | | Visibility     |
+| -------- | :---------: |-| :--------------|
+|IFR       | cloud base is less than 1000 ft AGL| and/or | less than 3 SM |
+|MVFR|cloud base is between 1000 ft and 3000 ft AGL|and/or|between 3 and 5 SM|
+|VFR|cloud blase is more than 3000 ft AGL|AND|more than 5 SM|
+
+AGL: above ground level
+SM: statute miles
+
+## [Fog](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01h-fog/index.html)
+
+Fog reduces visiblity and makes it difficult to see where you are, where the airport is, and where other airplanes are.
+
+### Fog Formation and Dissipation
+
+Fog is a cloud that touches the ground. The visibility is very poor, usually less than 1 km.
+
+`Freezing Fog`: the fog is made of `supercooled` tiny liquid water droplets
+`Ice Fog`: the fog is made of tiny ice crystals
+
+Fog can form due to two mechanisms:
+1. when water is added to `unsaturated` air (non-foggy air)
+2. when unsaturated air is cooled to its `dew-point temperature`
+
+   * the temperature at which water vapor starts to condense into liquid droplets
+
+Sometimes both mechanisms work together to make or maintain fog. Cooling is common at night, which is why fog is most likely during late night and early morning.
+
+Cool air is denser (heavier) than warm air, so the cool air often flows downhill and settles into valleys. For this reason, many fogs form in low spots or valleys as `valley fog`. Unfortunately, airports are often in valleys.
+
+* On windy nights:
+  Fog usually forms when the winds are relatively slow or near calm.
+  * if fog already formed at night when winds were light, then the fog will dissipate if the wind speed increases.
+* On nights with clear skies
+  * If the air is cooled sufficiently, and has sufficiently high humidity, then fog can form.
+  * If this humid layer cools enough, then a deep fog layer can form that is difficult to dissipate.
+* On nights with substantial cloud cover
+  * the clouds prevent the ground from cooling rapidly
+  * prevents to make fog
+
+### Types of Fog
+
+`Radiation`: During clear, nearly-calm nights the ground cools by infra-red radiation to space. 
+`Advection`: Humid air blows over a colder surface, causing the air temperature to decrease to the dew-point temperature. These fogs can form as thick layers, sometimes with sharp, well-defined front edges.
+`Upslope`: When the wind blows air against a hill slope, the air is pushed upward. When the air rises sufficiently high and gets sufficiently cold, then fog can form.
+`Precipitation` or `Frontal`: Precipitation fog or frontal fog is formed by adding moisture, via the evaporation from warm rain drops falling down through the initially-unsaturated cooler air below cloud base.
+`Steam`: Steam fog occurs when cold air moves over warm humid surfaces such as unfrozen lakes or oceans during early winter. 
+
+### What you can do about fog
+
+Fog is considered to be an `"obscuration"` that reduces `horizontal visibility` to 0.5 statute miles or less.
+
+## [Obscurations](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01i-obscurations/index.html)
+
+### Mist
+
+Mist is when very small precipitation particles are gently falling through the air. 
+
+* Visibility is usually greater than 1 km, as compared to fog, which has lower visibilities.
+* Mist can exist in air having a relative humidity between 95% and 100%.
+* Mist creates a thin grey-colored partial obscuration.
+
+### Smoke
+
+Smoke can come from factories, cars, and forest fires.
+
+* Even far downwind of forest fires and other wild fires, the smoke is often spread out somewhat uniformly within the bottom several km of the atmosphere.
+* Smoke from forest fires and other sources can reduce visibility to the point where it is a hazard to aviation.  Also, if you fly through smoke then you could breathe the toxic fumes that enter the aircraft cockpit or cabin through the aircraft ventillation system. 
+
+### Volcanic Ash
+
+Volcanic ash consists of microscopic rocks with sharp edges. They can cause serious problems to aircraft that accidently fly through the ash clouds.
+
+* If volcanic ash gets in jet/turbine engines, it can not only abrade the turbine components, but can also melt and re-solidify into glass-like coatings and protuberances that cause the turbines to break.
+* For this reason, volcanic ash forecast maps are produced for aviation. But they are produced only when the hazard exists.
+* Volcanoes also emit lots of gases, such as sulfur dioxide, high into the stratosphere.
+
+### Sand
+
+Strong winds over deserts and sandy regions can create `sand storms`, also called `haboobs`. Some of these haboobs are created by outflow winds from thunderstorms.
+
+### Haze
+
+It consists of microscopic liquid water droplets that form around a pollutant particle or chemical that attracts water vapor.
+
+* the haze particles can grow even when the relative humidity in the air is less than 100%, sometimes as low as 75%.
+* quickly grow to a final small size by attracting water vapor out of the air, but they don't keep growing.
+
+Small haze particles are generically known as `aerosols`, which include microscopic solid and liquid particles.
+
+### Spray
+
+Breaking waves cause tiny droplets of sea water to be injected into the atmosphere.
+
+### Dust
+
+These dust particles are smaller than the sand particles of sand storms. Hence, the dust can stay in the air longer after the strong winds end, because the particles gravitationally settle out more slowly.
+
+### Snow and Blowing Snow
+
+A `blizzard` is when there is `blowing snow` in the air with reduced visiblity AND fast wind speeds.
+
+### Rain
+
+Heavy rain can be a problem.
+
+![obscuration-symbols-1](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01i-obscurations/images-01i/obscuration.png)
+Heavy Snow
+![heavy-snow](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01i-obscurations/images-01i/heavy_snow.png)
+Blowing Snow
+![blowing-snow](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01i-obscurations/images-01i/blowing_snow.png)
+
+## [Standard Atmosphere - Pressure and Density](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02a-std_atmos-P/index.html)
+
+![standard-atmosphere](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02a-std_atmos-P/images-02a/std-atmos-table.png)
+
+## [Altitude and Pilot Physiology](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02b-oxygen_physiology/index.html)
+
+### Hypoxia
+
+Suffering from an insufficient supply of oxygen. Nonethess, our behavior is goofy. 
+Oxygen deficiency
+
+The higher altitude you fly, the shorter your `time-duration of useful consciousness` (TUC)
+|Altitude (feet)|Altitude (km)|TUC|
+|:-:|:-:|:-:|
+|18000|5.5|20 - 30 min|
+|25000|7.6|3 - 5 min|
+30000|9.1|1 - 2 min
+35000|10.7|30 - 60 s|
+40000|12.2|15 - 20 s|
+50000|15.2|9 - 12 s|
+
+**Symptoms**:
+
+* Between 12000 and 15000 feet:
+  * Impared/reduced: judgement, memory, alertness, coordination, and ability to make calculations.
+  * Headache, drowsiness, dizziness, euporia (happy, carefree), or belligerence (want to start a fight).
+* Above 15000:
+  * Periphery vision fails (becomes grayed out), leaving you with tunnel vision.
+  * Your lips and fingernails become blue (called cyanosis)
+  * Eventually unconsciousness and then death.
+
+These symptoms happen more quickly at higher altitudes.
+
+## [Air Density and Density Altitude](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02c-density_altitude/)
+
+Airplanes need a certain air density in order to fly. At lower density there is less air flowing over the wings, so the wings get less lift.
+
+If the density is lower, then the aircraft will need a longer runway to take-off, and once it takes-off, it will climb (gain altitude) more slowly.
+
+### Density Altitude
+
+Density altitude is the theoretical altitude in a standard atmosphere for which the air has the same density as at your actual altitude in a non-standard atmosphere.
+
+* Lower pressure, higher altitude, and warmer temperatures cause a higher "density altitude".
+* Higher density altitudes indicate poorer aircraft performance.
+  * Poorer performance means you need longer runway to take off, your aircraft will climb more slowly ...
+
+## [Crosswinds vs. Headwinds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02d-crosswind/index.html)
+
+`Headwind`: A wind directly in your face that slows you down
+`Tailwind`: A wind from directly behind you
+
+* Tailwinds are often good during most of the trip, because you can go faster, allowing you to get to your estination sooner
+* However, for aircraft on an airport runway, tailwinds are bad because the aircraft needs more runway to take off and to land
+
+### Airports, Winds, and Runway Orientation
+
+Aircraft try to land and takeoff into the wind (i.e., a headwind) because they don't need so much runway length.
+
+**Summary**:
+
+* tailwinds are bad on take-off and landing, but are good in flight.
+* headwinds are good on take-off and landing, but are bad in flight.
+* After take-off with the nice headwind, then they turn to the desired heading toward their destination.
+* On take-off and landing, crosswinds are difficult
+* Thus, for any wind direction, hopefully one of the runways is aligned close enough to the wind direction to have a good headwind and minimal crosswind. 
+
+## [Wind Shear at Aerodrmoes (Airports)](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02e-shear_at_aerodromes/index.html)
+
+### What is Wind Shear
+
+* The change of wind speed and/or wind direction with altitude.
+* Wind shear can happen at any altitude
+* Wind shear is almost always present near the ground
+* and the shear is stronger when the near-surface wind speeds are faster
+* strong wind shear near the ground at airports makes it difficult to land and take off.
+
+### What Causes Wind Shear
+
+1. Caused by weather systems
+   1. [`Synoptic-scale` shear](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02e-shear_at_aerodromes/synoptic-shear.html)
+   associated with low-pressure centers, fronts, and strong surface winds
+   Winds are usually stronger around low-pressure centers (lows) than around highs.
+   Lows and Fronts
+   synoptic, synoptic scale, lows, highs, fronts, cold front, warm front, isobar
+   2. Convective shear caused by thunderstorm downbursts, microbursts, and gust fronts.
+2. Caused by wind flowing across mountains
+   1. Mountain-wave shear (including rotors) downwind of mountains.
+   2. Channeling of winds through valleys and mountain passes ([gap winds](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02e-shear_at_aerodromes/gap-winds.html))
+   fjords, straits, gap winds, barrier jet
+   3. Mountain [downslope windstorms](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02e-shear_at_aerodromes/downslope_windstorms.html), including chinooks (Foehn) and boras
+   dry adiabatic lapse rate, Foehn, Chinook, bora, mountain waves, downslope windstorm, foehn wall
+3. Associated with turbulence behind obstacles (trees, buildings, mountains).
+4. Caused by other large aircraft and helicoptors that are landing and taking off
+
+Weak wind shears that are not a hazard to aircraft. Local winds winds with weak wind shears: `sea breeze` (or `lake breeze`), `anabatic winds`, and `katabatic winds`.
+Although katabatic winds are weak in most parts of the world, they can become very fast.
+
+## [Updrafts for Soaring](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/02-met_concepts/02f-soaring/index.html)
+
+Relate updrafts for soaring to causes including thermals, anabatic winds, and mountain waves
+
+## [Layers in the Standard Atmosphere](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03a-std_atmos/index.html)
+
+![temperature](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03a-std_atmos/images-03a/std-atmos-temperature-color.png)
+
+* `Troposphere`: almost all of our weather occur in the troposphere. The top of the troposhpere is called the `tropopause` ("trope").
+  * the troposhpere is thinner during winter and thinner near the poles
+  * All light aircraft fly in the troposphere.
+* `Stratosphere`: The top of the stratosphere is called the `stratopause`.
+  * Many modern commercial aircraft fly in the lower stratosphere to get above most of the storms and weather that are in the troposphere.
+* `Mesosphere`: The top of the mesosphere is called the `mesopause`.
+* `Thermosphere`, `Exosphere`
+
+## [Static Stability and Atmospheric Soundings](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03b-static-stability/index.html)
+
+If atmospheric structure is such that the cool (heavy) layer of air is under the warmer (lighter) layer, then that part of the atmosphere is said to be statically stable.
+
+In statically stable conditions:
+
+* Typically forms near the ground at night under clear skies with calm-to-light winds, when the ground temperature decreases, and the ground cools the air that touches it.
+* Air is usually nonturbulent (a smooth ride in an airplane) if there is no wind shear.
+* But if this air is forced up over a mountain, then on the downwind side it sinks past its starting altitude (i.e., overshoots downward), and then starts to rise again and overshoots upward, and keeps oscillating as a mountain wave.
+* Cold air near the ground can drain downhill and can pool in the valley floor, where frost or fog can form in the cold air.
+* If there is wind shear in a statically stable region, then turbulence can form, along with breaking atmospheric waves called Kelvin Helmholtz waves
+
+In statically neutral conditions:
+
+* Typically forms in overcast conditions (day or night) when the wind is moderate or strong.
+* Air can be nonturbulent, but the slightest wind shear can create dynamic instability and turbulence.
+* Neutral air hitting a mountain creates obstacle wake turbulence downwind of the mountain.
+
+In statically unstable conditions:
+
+* Typically occurs in sunny days over land when the average winds are relatively light.  
+* It can be caused when the sun heats the land and the land warms the bottom layer of air.
+* Thermals of warm air rise with cooler descending air between the thermals.
+* Cumulus clouds might form at the top of the thermals if the thermals are humid enough and the unstable air is deep enough.
+* If the unstable air extends over most of the depth of the troposphere, then thunderstorms can form (with many flight hazards).
+
+### Thunderstorm Stability Indices
+
+Convective Available Potential Energy (`CAPE`)
+CAPE (J/kg)|Interpretation
+:-:|:-
+1750|Ordinary thunderstorm
+1850|Marginal supercell thunderstorm
+1950|Supercell thunderstorm, but no tornado
+2150|Supercell thunderstorm with weak (EF0 to EF1) tornado
+2850|Supercell thunderstorm with strong (EF2 to EF5) tornado
+
+`K Index`
+K Index (°C)|Interpretion
+:-:|:-
+less than 20|Thunderstorm unlikely
+20 to 30|Chance of scattered thunderstorms
+30 to 40|Many thunderstorms likely, some with heavy rain
+greater than 40|Many thunderstorms with very heavy rain
+
+### Temperature Soundings (Upper air Soundings)
+
+To determine the stability, we need weather conditions at many different heights. This is called a `sounding`.
+Most countries have national weather services that launch weather ballons called `rawinsondes`
+
+## [Turbulence Hazards to Aviation](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03c-turb_intensity/index.html)
+
+`Turbulence` is the random gusty fluctuations (vertical & horizontal) of the wind. Turbulence usually consists of many different size swirls of air motion (called `eddies`) superimposed on each other.
+
+### Turbulence Intensities
+
+NavCanada Aviation Weather Services Guide Turbulence Reporting Table
+|Intensity|Aircraft Reaction|Inside Aircraft|
+|:-:|:-|:-|
+Light|Slight erratic changes (turbulence); Slight rhythmic changed (chop)|Slight strain against seat belts; Little or no difficulty walking
+Moderate|Changes to altitude/attitude but aircraft remains in control; Rapid bumps or jolts (chop)|Definite strain against seat belts; Objects are dislodged; Difficulty walking
+Severe|Large, abrupt changes in altitude/attitude and airspeed; Momentarily out of control|Forced violently against seat belts; Walking is impossible; Unsecured objects thrown about
+
+US FAA Aeronautical Information Manual (2014)
+TODO:
+
+### How Turbulence Forms
+
+Natural turbulence can be created by 3 different processes:
+
+* `convective turbulence`, or `free convection`, or `thermal turbulence` (due to buoyancy: warm air rising and cold air sinking)
+* `wind-shear turbulence`, or `forced convection`, or `mechanical turbulence` (different wind speeds or wind directions at different altitudes)
+* `obstacle turbulence` (caused by wind hitting an object and flowing around it).  The wakes behind fixed objects such as mountains will be discussed here.
+
+## [Mountain Waves](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03d-mountain_waves/index.html)
+
+`Mountain waves` are wavy motions of the air caused when statically stable air flows over mountains.
+
+The air has a "`natural wavelength`" that depends on M and S.
+
+* Faster wind speeds (M) create longer wavelengths.  
+* Greater static stability (S) creates shorter wavelengths.
+* S = static stability
+* M = wind speed
+
+`Froude number` (Fr): The ratio of natural wavelength to mountain width
+
+* Small Fr << 1: light M and/or strong S; the natural wavelength is shorter than the mountain width
+  causing weak mountain waves downwind of the mountain range
+* Fr = 1: causes the most violent waves with strongest up and downdrafts
+  the natural wavelength of the wave matches the width of the mountain.
+* Large Fr >> 1: causes weaker amplitude, longer wavelength waves
+  a region of reversed wind flow near the ground close to the mountain
+* Fr = infinity: strong turbulent wakes behind the mountain, but not much mountain waves.
+
+If there is a layer of humid air near the altitude of the mountain wave, then sometimes a cloud called a `lenticular cloud` or `mountain wave cloud` or `lee-wave cloud` will form.
+
+But most mountain waves do not form lenticular clouds.
+
+`Rotor clouds` indicates extremely violent turbulence with up and downward motions that can exceed the climb speed of the aircraft.
+
+## [Clear-air Turbulence (CAT)](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03e-CAT/index.html)
+
+`clear-air turbulence (CAT)`: wind-shear turbulence happens outside of (and not near) a thunderstorm cloud
+
+CAT can happen at any altitude, but is often the most intense where the winds are strongest, such as near the jet stream. If you encounter CAT, you can often get out of it by climbing or descending to a different altitude.
+
+`Jet stream`: a region of fast winds at the same altitudes that commercial airliners fly.
+
+## [Boundary Layer and Obstacle/Mountain Turbulence](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03f-BL_obstacle_wake/index.html)
+
+This layer of the atmosphere is called the `atmospheric boundary layer (ABL)` = `planetary boundary layer (PBL)`, and turbulence in this layer is called `boundary-layer turbulence`.
+
+Boundary layer turbulence is often weak to moderate — not usually a hazard to aircraft, but bumpy enough to make passengers airsick.
+
+ABL turbulence is often nonexistent, or sometimes weak and sporadic, at night when winds are light.
+
+These thermals often carry air pollutants upward
+
+These daytime thermals are places where sailplane pilots like to soar because of the lift. 
+
+## [Aircraft Icing](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03g-Icing/index.html)
+
+supercooled liquid droplets freeze almost instantly when they touch something solid and cold such as an airplane
+
+## [Frontal Hazards](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03h-frontal_hazards/index.html)
+
+`Front`: the boundary between warmer and cooler air
+`Cold front`: the cold air advances
+`Warm front`: the cold air retreats
+`Stationary front`: the boundary doesn't move very much
+`Occluded front`: the cold front catches up to and merges with the warm front
+
+Fronts often have clouds, precipitation,  strong winds, and turbulence
+
+`Frontogenesis`: birth of a new front
+`Frontolysis`: death of an old front
+`Squall line`: line of thunderstorms not along a front
+
+![front](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/03-met_concepts/03h-frontal_hazards/images-03h/frontal-symbols-color.png)
+
+##[Types of Thunderstorms](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04a-Tstorm_types/index.html)
+
+Most thunderstorms are composed of `cells`, where each cell is like an individual thunderstorm. The cell evolution has three stages:
+
+1. Cumulus
+   Updrafts, no downdrafts. No rain. No `anvil` (the horizontally-extended upper part of the cloud). Often not visible on radar.
+2. Mature
+   Both up and downdrafts. Rain. Anvil. Most violent stage. Rain portion of cell is visible on radar.
+3. Dissipating
+   Downdrafts, no updrafts. Raining itself out, but leaving ice crystals in the middle and upper parts of the cloud. Not very visible on radar.
+
+`Residue`: Not officially listed as a stage, but affects pilots because ice crystals in the anvil take a long time to evaporate. This blocks VFR (visual) flight through that region at the altitude of the anvil cloud.
+
+### Types of Thunderstorms
+
+* [Basic storms](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04a-Tstorm_types/index-basic.html)
+  * single cell (airmass)
+  * multicell
+  * orographic
+* [Mesoscale convective systems (MCS)](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04a-Tstorm_types/index-mcs.html)
+  * squall line
+  * bow echo
+  * mesoscale convective complex (MCC)
+  * mesoscale convective vortex (MCV)
+* [Supercells](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04a-Tstorm_types/index-supercell.html)
+  * low precipitation (LP)
+  * classic (CL)
+  * high precipitation (HP)
+
+## [Thunderstorm Hazards to Aviation](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/index.html)
+
+Thunderstorms are convective clouds, which means they are driven by the buoyancy of warm rising air inside the cloud.
+
+In North America, thunderstorms and their hazards are most common in Spring and Summer, when warm humid air is triggered to rise along weather boundaries such as cold fronts, sea breezes, dry lines, gust fronts, etc.
+
+All aviation authorities require that you do NOT fly through thunderstorms. The US and Canada recommend that pilots stay at least 20 nautical miles away from thunderstorms.
+
+Also, civilian pilots should NOT try to fly over the tops of thunderstorms
+
+## [Convective Turbulence](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/1-conv_turb.html)
+
+### What if I fly into a thunderstorm cloud?
+
+* The largest-size updrafts and downdrafts would move your whole aircraft upward or downward away from your assigned altitude
+* The medium-size eddies would cause 
+  * intense and random rolling motions 
+  the aircraft wings bank right and left
+  * pitching motions
+  the aircraft nose is rocked up and down
+  * yawing motions
+  the aircraft nose is rocked left and right
+* The smaller eddies would cause violent shaking, similar to what you would feel in a car driving over a very bumpy road
+
+All of these motions would happen simultaneously, causing a very rough ride and making the aircraft very difficult to control.
+
+## [Downbursts, Microbursts, Gust Fronts & Low-Level Wind Shear](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/2-downbursts-gustfronts.html)
+
+`Downbursts`: rapidly descending downdrafts of air, found below clouds that have precipitation or `virga`.
+
+The downbusts form when falling raindrops pass through drier air en route to the ground
+
+Sometimes the downdraft speeds can be so fast that they are a hazard to aircraft. These fast downdrafts of air from thunderstorms are called downbursts, and can be 1 to 10 km in diameter. Those damaging downbursts with a small diameter (0.5 to 4 km) and short duration (2 to 5 minutes) are called `microbursts`.
+
+The air spreads out as `outflow winds` in all horizontal directions away from the impact point when the cold downburst air hits the ground. The leading edge of these outrushing winds is called a `gust front`.
+
+gust front advances over an airport -> sudden change of wind speed and direction known as `low-level wind shear` -> making landings and take-offs extremely challenging. if exist sufficient moisture in the air hit by the advancing gust front -> form `arc cloud`: a low-altitude cloud
+
+the gust front could stir up a wall of dust called a `haboob`
+
+Habbob vs. arc cloud:
+
+* haboob touches the ground, and dust or sand is in the turbulent outflow air
+* arc cloud doesn't touch the ground, and consists of cloud droplets in the pre-gust-front warm air that was pushed up over the outflow cold thunderstorm air
+
+### Hazards to Aircraft
+
+* A strong downburst can push an aircraft towards the ground, where the aircraft could impact buildings, trees, powerlines, or other structures.
+* the radial straight-line winds near an airport can cause wind shifts that make it very difficult to land or take off.
+* if an aircraft flies across a gust front, can cause the aircraft to unintentionally climb higher than the desired `glideslope`
+
+if the aircraft approach deviates too much from the desired glideslope, then the pilot will "go around" (doesn't land, but climbs back to the assigned altitude to try again later)
+
+`holding pattern`
+
+## [Lightning & Precipitation Static](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/3-lightning-Pstatic.html)
+
+`Lightning`: a long, thin spark created in a thunderstorm
+Lightning `stroke` can happen:
+
+* between a cloud and the ground (`cloud-to-ground lightning`, or `CG lightning`)
+* between two adjacent clouds
+* within a single cloud
+* from teh cloud to clear air
+
+Lightning forms due to the collision of small ice crystals and small hailstones (`graupel`) inside a thunderstorm.
+
+* greater voltage build-up in a thunderstorm can cause longer lightning paths
+
+Aircraft do not attract lightning and do not cause lightning.
+
+### Precipitation static (P-Static)
+
+`P-static`: the sparks taht dance on the outside of an aircraft
+`St. Elmo's fire`: Sometimes the corona discharge will appear as filaments of light writhing on the outside of the windshield
+
+* The sparks also cause static (crackling sounds) that you hear on the radio.  
+
+## [Hail](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/4-hail.html)
+
+`Hailstones`: irregularly-shaped balls of ice, larger than 0.5 cm in diameter, that fall from severe thunderstorms.
+
+* smaller than 0.5 cm: `graupel`
+
+`Hail`: the event or process of hailstones falling out of the sky
+`Hail swath`: the damage path on the ground due to a moving hail storm
+
+`TORRO` Hailstone Size Classification
+Size Code|Max. Diameter (cm)|Description
+:-:|:-:|:-
+0|0.5 - 0.9|Pea
+1|1.0 - 1.5|Mothball
+2|1.6 - 2.0|Marbel, grape
+3|2.1 - 3.0|Walnut
+4|3.1 - 4.0|Pigeon egg to golf ball
+5|4.1 - 5.0|Pullet egg
+6|5.1 - 6.0|Hen egg
+7|6.1 - 7.5|Tennis ball to cricket ball
+8|7.6 - 9.0|Large orange to soft ball
+9|9.1 - 10.0|Grapefruit
+10|>10.0|Melon
+
+### Why does hail get so large?
+
+### How does hail affect aircraft?
+
+Hail is EXTREMELY dangerous to aircraft.
+
+1. breaks the windscreen
+2. dents the leading edges of the wings and tail
+3. hail can also damage your aircraft while it is parked
+
+## [Tornadoes](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/5-tornadoes.html)
+
+Pilots should NEVER be in or near a tornadic thunderstorm
+
+`Enhanced Fujita (EF)` tornado damage intensity scale
+
+##[Heavy Rain](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04b-h-Tstorm_hazards/6-heavy_rain.html)
+
+the heaviest part of thunderstorm rain usually happens in isolated showers of diameters ranging from 1 to 15 km, so you can often fly around them. The exception is a `squall line`
+
+Detect heavy rain cells:
+
+* Airborne weather radar
+* Ground-based weather radar
+* pilot reports
+* Visual appearance of showers
+
+## [Aviation Weather Services](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/04-met_concepts/04i-aviation_services/index.html)
